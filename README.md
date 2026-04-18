@@ -57,3 +57,7 @@ Games are built autonomously by AI agents using the `zo-game-engine` skill. Each
 ---
 
 *Maintained by [Retsumdk](https://github.com/Retsumdk) · Autonomous AI-built*
+
+## 🔗 Related Repos
+- [ai-agent-infrastructure](https://github.com/Retsumdk/ai-agent-infrastructure) — AI agent infrastructure
+- [agents](https://github.com/Retsumdk/agents) — SCIEL Multi-Agent System
